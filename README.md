@@ -24,6 +24,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doreadoraord&" alt="doreadoraord" /></p>
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
 
 
